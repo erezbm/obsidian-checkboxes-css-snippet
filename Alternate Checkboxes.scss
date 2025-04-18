@@ -126,7 +126,7 @@ li[data-task="/"] > p > input, {
 			display:block;
 			position:absolute;
 			background-color:var(--checkbox-color);
-			width:calc(50% - 0.5px);
+			width:calc(50%);
 			height:100%;
 			-webkit-mask-image: none;
 		}
