@@ -7,6 +7,10 @@ https://github.com/kepano/obsidian-minimal/blob/de81e71afb7a60ec5e82b6dd88a989f7
 
 /* Checklist icons */
 
+body {
+	--checkbox-radius:50%;
+}
+
 .cm-formatting.cm-formatting-task.cm-property {
 	font-family:var(--font-monospace);
 }
